@@ -1,6 +1,6 @@
 # Exploratory Data Analysis and Sentiments Analysis of r/Kenya Subreddit
 
-The purpose of this projet was to investigate and explore top posts and their comments on the [r/Kenya](https://www.reddit.com/r/Kenya/) subreddit using EDA and Sentiments analysis. This data analysis can be useful in market research and analysis on different trends among Kenyans who use reddit.
+The purpose of this project was to investigate and explore top posts and their comments on the [r/Kenya](https://www.reddit.com/r/Kenya/) subreddit using EDA and Sentiments analysis. This data analysis can be useful in market research and analysis on different trends among Kenyans who use reddit.
 
 ## Goals of the Project
 
